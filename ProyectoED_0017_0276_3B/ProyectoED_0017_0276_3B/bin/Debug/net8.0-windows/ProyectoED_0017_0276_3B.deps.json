@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoED_0017_0276_3B/1.0.0": {
+        "runtime": {
+          "ProyectoED_0017_0276_3B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoED_0017_0276_3B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
